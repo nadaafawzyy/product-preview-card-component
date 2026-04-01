@@ -1,7 +1,20 @@
 # Product Preview Card Component
 
 A responsive **Product Preview Card** built from the *Frontend Mentor* challenge.  
-This project demonstrates building a UI card that displays a product with image, details, prices, and a call‑to‑action — using only HTML and CSS. :contentReference[oaicite:1]{index=1}
+This project demonstrates building a UI card that displays a product with image, details, prices, and a call‑to‑action — using only HTML and CSS. 
+
+🛠 Features
+Clean, minimal card UI
+Responsive layout using CSS flexbox / grid
+Mobile‑first design
+Hover and focus effects
+📈 What I Learned
+
+Use this section to capture your takeaways, for example:
+
+Practiced responsive design using media queries
+Built a UI component with semantic HTML
+Improved understanding of layout techniques and CSS organization
 
 ## 📌 Overview
 
